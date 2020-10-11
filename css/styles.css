@@ -1,0 +1,138 @@
+.nav-item{
+  padding-bottom: 30px;
+  margin-top: 0;
+  padding-right: 5px;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu',sans-serif;
+  color: #571467;
+  font-size: 1.5rem;
+
+}
+
+.logo{
+  height:50px;
+  width:50px;
+}
+
+#title{
+  background-color: #b4a7d6;
+}
+
+@media(min-width: 900px){
+  .collage{
+   height: 35rem;
+   width: 35rem;
+}
+}
+
+h1{
+  font-family: 'Bebas Neue',cursive;
+  font-size: 5.3rem;
+  padding-top: 150px;
+  line-height: 1.5;
+  color: white;
+}
+
+.tagline{
+  font-family: 'Ubuntu',sans-serif;
+    color: #571467
+}
+
+.top-part{
+  margin-bottom: 90px;
+}
+
+.middle{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+
+p{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 20px;
+  line-height: 2;
+  color: grey;
+  text-align: center;
+  margin-bottom: 45px;
+}
+h3{
+  text-align: center;
+  font-family: 'Bebas Neue',cursive;
+  line-height: 2;
+}
+
+
+h2{
+  font-size: 2.5rem;
+}
+
+.fab{
+    color: #b361c0;
+    padding-left: 90px;
+}
+.fab:hover{
+  color: #571467;
+}
+.fas{
+  color: #b361c0;
+  padding-left: 90px;
+
+
+}
+.fas:hover{
+    color: #571467;
+
+
+}
+
+.ha{
+  padding-left: 70px;
+}
+
+
+#features{
+margin-top:100px;
+}
+
+
+/* ****************TESTIMONIALS************ */
+
+#testimonials{
+  background-color: #b4a7d6;
+  text-align: center;
+  padding:10% 20%;
+
+
+
+}
+
+.testimonial-text{
+  color:#ffff;
+}
+
+.testimonial-img{
+  border-radius: 100%;
+  width:10%;
+  margin:20px;
+}
+
+
+
+#cta {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.btn-dark{
+margin-bottom: 5%;
+margin-top: 5%;
+}
+
+.bottom{
+  font-size: 3rem;
+}
